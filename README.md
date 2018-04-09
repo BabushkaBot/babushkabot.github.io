@@ -1,2 +1,2 @@
 # breakupbot.github.io
-A simple FlowXO chatbot to help people deal with breakups
+A simple DialogFlow chatbot to help people deal with breakups
